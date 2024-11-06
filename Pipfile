@@ -4,7 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pylatexenc = "*"
+streamlit = "*"
+numpy = "*"
+scikit-learn = "*"
+qiskit = "*"
+qiskit-aer = "*"
+qiskit-machine-learning = "*"
 
 [dev-packages]
 
