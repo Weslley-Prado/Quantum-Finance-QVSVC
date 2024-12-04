@@ -1,0 +1,402 @@
+id_transacao,valor,tempo,fim_de_semana,idade_cliente,tipo_transacao,cidade,perfil,numero_transacoes,fraude
+1,1000.0,12.296986261581992,0,37,compra,Natal,Não Aposentado,3,1
+2,1000.0,4.574337835029394,1,58,compra,Manaus,Não Aposentado,2,0
+3,1000.0,2.6671831703838906,0,54,compra,Brasília,Não Aposentado,5,1
+4,1000.0,0.8008086981609299,0,58,compra,Fortaleza,Não Aposentado,5,1
+5,1000.0,11.861711551341438,0,44,transferencia,Goiânia,Não Aposentado,5,1
+6,1000.0,22.91244944893805,0,25,compra,Teresina,Estudante,5,1
+7,1000.0,1.0478215346422006,0,18,compra,Florianópolis,Estudante,2,0
+8,1000.0,5.183236529305785,0,59,saque,São Luís,Não Aposentado,4,1
+9,1000.0,22.58057911209637,0,30,transferencia,Natal,Não Aposentado,1,0
+10,1000.0,13.61431176657861,0,58,saque,Recife,Não Aposentado,4,1
+11,1000.0,23.85791650378077,0,75,compra,Porto Alegre,Aposentado,2,0
+12,1000.0,22.71391150403544,0,68,compra,Manaus,Aposentado,2,0
+13,1000.0,8.778077115123157,1,34,saque,Maceió,Não Aposentado,2,0
+14,1000.0,15.271594511858403,0,63,compra,Campo Grande,Aposentado,4,1
+15,1000.0,15.002887068928262,0,42,transferencia,Fortaleza,Não Aposentado,4,1
+16,1000.0,18.559317360937463,0,24,compra,Maceió,Estudante,3,1
+17,1000.0,10.009381067929585,1,18,compra,João Pessoa,Estudante,3,1
+18,1000.0,1.0717850971808112,1,75,saque,Belo Horizonte,Aposentado,1,0
+19,1000.0,22.69311249927099,0,21,saque,Fortaleza,Estudante,2,0
+20,1000.0,7.252987876310731,0,23,compra,São Paulo,Estudante,1,0
+21,1000.0,8.707142375347573,0,42,compra,Natal,Não Aposentado,1,0
+22,1000.0,3.797794076818443,0,57,compra,Vitória,Não Aposentado,4,1
+23,1000.0,1.0923917698512557,1,65,compra,Recife,Aposentado,1,0
+24,1000.0,19.488010535874096,1,50,compra,Porto Alegre,Não Aposentado,4,1
+25,1000.0,5.640083878024163,0,27,compra,Recife,Estudante,1,0
+26,1000.0,11.885220063581931,1,53,compra,Porto Alegre,Não Aposentado,4,1
+27,1000.0,8.129791314283633,0,36,saque,Campo Grande,Não Aposentado,5,1
+28,1000.0,19.788983198114984,0,72,saque,Brasília,Aposentado,3,1
+29,1000.0,3.644320791670455,0,62,transferencia,Vitória,Aposentado,4,1
+30,1000.0,12.84880973075321,1,45,compra,Recife,Não Aposentado,2,0
+31,1000.0,11.038235630299962,1,52,compra,Salvador,Não Aposentado,4,1
+32,1000.0,19.105097812322278,1,36,transferencia,Belo Horizonte,Não Aposentado,1,0
+33,1000.0,3.519924314730198,1,71,compra,Vitória,Aposentado,4,1
+34,1000.0,18.02711502017262,0,45,saque,Vitória,Não Aposentado,3,1
+35,1000.0,22.243492789912494,1,70,transferencia,Cuiabá,Aposentado,2,0
+36,1000.0,8.382870959723768,0,27,compra,Rio de Janeiro,Estudante,5,1
+37,1000.0,9.362340922559238,0,27,compra,Brasília,Estudante,5,1
+38,1000.0,23.364512850895622,0,73,saque,Salvador,Aposentado,1,0
+39,1000.0,3.3415792899368792,0,26,saque,Curitiba,Estudante,2,0
+40,1000.0,10.159034775566564,0,74,compra,Recife,Aposentado,3,1
+41,1000.0,5.179384481876831,0,72,compra,Boa Vista,Aposentado,3,1
+42,1000.0,18.758350091925355,0,20,compra,Recife,Estudante,4,1
+43,1000.0,6.944448971921334,0,32,transferencia,São Luís,Não Aposentado,1,0
+44,1000.0,14.532266452173667,0,56,compra,Natal,Não Aposentado,3,1
+45,1000.0,2.421151410160296,0,33,saque,Porto Velho,Não Aposentado,1,0
+46,1000.0,3.7325275434426253,1,36,compra,Curitiba,Não Aposentado,1,0
+47,1000.0,20.43568271971338,0,20,compra,Goiânia,Estudante,3,1
+48,1000.0,9.771821226858908,1,56,compra,Recife,Não Aposentado,4,1
+49,1000.0,22.3299107564427,1,67,compra,Macapá,Aposentado,4,1
+50,1000.0,2.0741398568810023,0,31,transferencia,Campo Grande,Não Aposentado,4,1
+51,1000.0,14.976879942911154,0,44,compra,Belém,Não Aposentado,1,0
+52,1000.0,17.557159120369988,0,64,compra,João Pessoa,Aposentado,1,0
+53,1000.0,22.976874229785288,1,61,transferencia,São Paulo,Aposentado,3,1
+54,1000.0,10.552780603290726,1,54,saque,Fortaleza,Não Aposentado,3,1
+55,1000.0,23.738313315592112,0,77,compra,São Luís,Aposentado,4,1
+56,1000.0,6.262228188569462,0,74,compra,Fortaleza,Aposentado,2,0
+57,1000.0,18.346910018310396,1,68,saque,Brasília,Aposentado,4,1
+58,1000.0,3.8351976873658424,0,58,compra,Campo Grande,Não Aposentado,4,1
+59,1000.0,20.431010593212115,0,18,compra,Rio de Janeiro,Estudante,3,1
+60,1000.0,22.360233827113408,0,77,compra,Boa Vista,Aposentado,3,1
+61,1000.0,3.491421575307413,1,18,compra,Natal,Estudante,3,1
+62,1000.0,21.363757740801432,0,37,compra,São Paulo,Não Aposentado,4,1
+63,1000.0,17.50693417103853,1,51,compra,Salvador,Não Aposentado,4,1
+64,1000.0,10.56293559794538,0,67,compra,Manaus,Aposentado,2,0
+65,1000.0,2.5540826837486517,1,62,compra,Curitiba,Aposentado,4,1
+66,1000.0,15.262710578525285,1,55,compra,Boa Vista,Não Aposentado,3,1
+67,1000.0,3.0412476683753624,0,28,compra,Curitiba,Estudante,3,1
+68,1000.0,4.572696258199836,1,39,compra,Florianópolis,Não Aposentado,4,1
+69,1000.0,5.09106366299907,0,39,saque,Teresina,Não Aposentado,2,1
+70,1000.0,13.588660609656989,0,26,compra,Porto Velho,Estudante,1,0
+71,1000.0,1.5191170577638866,0,30,compra,Macapá,Não Aposentado,4,1
+72,1000.0,1.8648477179431167,0,66,compra,João Pessoa,Aposentado,4,1
+73,1000.0,3.8978926366031414,1,45,compra,Brasília,Não Aposentado,1,0
+74,1000.0,19.799989594233907,1,79,compra,São Luís,Aposentado,4,1
+75,1000.0,16.741678310775598,0,34,compra,Florianópolis,Não Aposentado,4,1
+76,1000.0,8.104900018576142,0,29,saque,Porto Velho,Estudante,3,1
+77,1000.0,15.18857208127113,0,33,compra,Teresina,Não Aposentado,2,0
+78,1000.0,22.857253377449698,0,25,compra,Brasília,Estudante,3,1
+79,1000.0,16.200960021687088,0,19,compra,Belo Horizonte,Estudante,1,0
+80,1000.0,8.23833287970412,0,32,compra,Porto Alegre,Não Aposentado,2,0
+81,1000.0,5.760763166577568,0,78,compra,Campo Grande,Aposentado,4,1
+82,1000.0,14.109385356710042,1,32,compra,São Luís,Não Aposentado,2,0
+83,1000.0,3.4741873647376567,0,34,compra,Curitiba,Não Aposentado,2,0
+84,1000.0,0.6427619519579908,1,63,compra,Natal,Aposentado,3,1
+85,1000.0,13.603997208815468,0,77,saque,Macapá,Aposentado,2,0
+86,1000.0,23.13429160978398,1,19,saque,Florianópolis,Estudante,3,1
+87,1000.0,5.722109275078097,0,63,compra,Teresina,Aposentado,4,1
+88,1000.0,23.970691973168233,1,67,saque,Brasília,Aposentado,2,0
+89,1000.0,14.63702622407343,1,58,saque,Recife,Não Aposentado,3,1
+90,1000.0,9.709008237685506,0,24,saque,João Pessoa,Estudante,2,0
+91,1000.0,16.04677967391025,0,74,compra,Natal,Aposentado,3,1
+92,1000.0,4.277067259815298,0,77,transferencia,Rio Branco,Aposentado,4,1
+93,1000.0,12.628445641341946,0,43,compra,Belém,Não Aposentado,3,1
+94,1000.0,0.21116776253840452,0,72,compra,Brasília,Aposentado,4,1
+95,1000.0,21.516092308192604,0,43,compra,Goiânia,Não Aposentado,4,1
+96,1000.0,22.23513594440938,0,70,compra,Salvador,Aposentado,1,1
+97,1000.0,13.151939347741031,0,56,compra,Campo Grande,Não Aposentado,3,1
+98,1000.0,15.81171213753079,1,36,compra,Manaus,Não Aposentado,5,1
+99,1000.0,2.479764950349157,0,20,compra,Manaus,Estudante,3,1
+100,1000.0,17.842829003291982,0,69,transferencia,João Pessoa,Aposentado,3,1
+101,1000.0,19.79633824174033,0,27,compra,Maceió,Estudante,5,1
+102,1000.0,13.069758472369275,1,26,compra,Rio Branco,Estudante,1,0
+103,1000.0,16.783973379535713,0,78,compra,Curitiba,Aposentado,4,1
+104,1000.0,3.4641970298955265,0,28,saque,Macapá,Estudante,3,1
+105,1000.0,21.915354096748295,0,54,compra,São Paulo,Não Aposentado,2,0
+106,1000.0,15.390638134238664,1,47,compra,Fortaleza,Não Aposentado,2,0
+107,1000.0,7.283324414339484,0,59,compra,São Luís,Não Aposentado,3,1
+108,1000.0,0.09159671051898766,1,25,saque,João Pessoa,Estudante,5,1
+109,1000.0,5.6890191990227885,0,62,compra,Palmas,Aposentado,4,1
+110,1000.0,18.68852666874546,0,64,compra,Maceió,Aposentado,1,0
+111,1000.0,8.782844862289638,0,42,compra,Aracaju,Não Aposentado,2,0
+112,1000.0,7.733120434874875,0,78,compra,Campo Grande,Aposentado,4,1
+113,1000.0,22.135496140847515,1,32,saque,São Paulo,Não Aposentado,4,1
+114,1000.0,16.989063396396695,0,45,compra,Campo Grande,Não Aposentado,4,1
+115,1000.0,7.943443995286329,1,79,compra,Salvador,Aposentado,4,1
+116,1000.0,4.989698525397288,0,65,saque,Belém,Aposentado,4,1
+117,1000.0,7.916652304666788,0,23,compra,São Luís,Estudante,5,1
+118,1000.0,15.279243622854512,1,74,compra,Salvador,Aposentado,1,0
+119,1000.0,18.950079072411818,0,74,saque,Recife,Aposentado,1,0
+120,1000.0,20.925157213864196,0,66,transferencia,São Luís,Aposentado,3,1
+121,1000.0,0.6620350958157832,0,73,compra,Campo Grande,Aposentado,1,0
+122,1000.0,4.619898156066175,0,35,compra,Manaus,Não Aposentado,3,1
+123,1000.0,11.808181252730718,0,49,saque,Goiânia,Não Aposentado,4,1
+124,1000.0,5.143706877034099,0,79,compra,Cuiabá,Aposentado,2,0
+125,1000.0,11.6927476733571,0,33,saque,Porto Velho,Não Aposentado,4,1
+126,1000.0,4.998997207096086,1,55,compra,Aracaju,Não Aposentado,4,1
+127,1000.0,23.063122689117492,0,36,compra,Palmas,Não Aposentado,4,1
+128,1000.0,5.543240649866656,0,60,compra,Rio de Janeiro,Aposentado,4,1
+129,1000.0,2.5897458519681322,0,28,compra,Rio Branco,Estudante,3,1
+130,1000.0,10.00749186089564,0,49,compra,Maceió,Não Aposentado,1,0
+131,1000.0,2.662053608226743,0,62,transferencia,Rio Branco,Aposentado,3,1
+132,1000.0,13.081572554083595,0,40,compra,Porto Alegre,Não Aposentado,4,1
+133,1000.0,22.4263259624272,0,65,compra,Porto Alegre,Aposentado,4,1
+134,1000.0,13.825817392063898,0,56,compra,Rio de Janeiro,Não Aposentado,4,1
+135,1000.0,2.2719512694439112,0,39,compra,Boa Vista,Não Aposentado,5,1
+136,1000.0,13.233602648560643,1,78,compra,Porto Velho,Aposentado,1,0
+137,1000.0,6.709914202424528,0,37,compra,Salvador,Não Aposentado,4,1
+138,1000.0,16.67630019753622,0,71,compra,Palmas,Aposentado,1,0
+139,1000.0,5.59572863138502,1,51,compra,São Luís,Não Aposentado,1,0
+140,1000.0,13.150819371389215,0,22,compra,Salvador,Estudante,2,0
+141,1000.0,17.26145356321571,0,38,compra,Curitiba,Não Aposentado,5,1
+142,1000.0,15.548983412903668,0,36,compra,Rio Branco,Não Aposentado,4,1
+143,1000.0,22.299423749146985,1,37,compra,São Luís,Não Aposentado,4,1
+144,1000.0,21.450145305887325,0,74,compra,São Paulo,Aposentado,1,1
+145,1000.0,16.625199866950403,0,32,compra,Recife,Não Aposentado,1,0
+146,1000.0,17.17683460469938,0,54,saque,São Paulo,Não Aposentado,1,1
+147,1000.0,14.321079194540467,0,53,transferencia,Teresina,Não Aposentado,2,0
+148,1000.0,18.38721339325656,0,37,transferencia,João Pessoa,Não Aposentado,5,1
+149,1000.0,5.659398429994441,1,25,saque,Belém,Estudante,2,0
+150,1000.0,18.08409865097903,1,36,compra,Recife,Não Aposentado,4,1
+151,1000.0,3.443922973719496,0,77,saque,Vitória,Aposentado,1,0
+152,1000.0,0.4268592224611627,0,69,saque,Belém,Aposentado,1,0
+153,1000.0,7.0425428340710425,0,76,compra,Porto Alegre,Aposentado,4,1
+154,1000.0,6.561582222806274,0,68,saque,Curitiba,Aposentado,4,1
+155,1000.0,19.278685220709196,0,67,compra,Aracaju,Aposentado,4,1
+156,1000.0,12.351309404330117,0,78,compra,Palmas,Aposentado,1,0
+157,1000.0,4.290914006224724,0,45,compra,Fortaleza,Não Aposentado,2,0
+158,1000.0,23.155221198280557,0,69,compra,Fortaleza,Aposentado,1,0
+159,1000.0,11.353296148108043,1,54,compra,Belém,Não Aposentado,5,1
+160,1000.0,21.307897012773985,0,41,compra,Macapá,Não Aposentado,2,0
+161,1000.0,11.311922988594329,0,39,compra,Manaus,Não Aposentado,4,1
+162,1000.0,20.73498881706098,0,58,saque,Teresina,Não Aposentado,5,1
+163,1000.0,5.21200928055455,0,44,compra,Teresina,Não Aposentado,4,1
+164,1000.0,4.815684558201814,0,35,compra,Boa Vista,Não Aposentado,3,1
+165,1000.0,11.95722825677027,1,47,compra,Goiânia,Não Aposentado,2,0
+166,1000.0,1.7743173524531475,0,18,transferencia,Teresina,Estudante,2,0
+167,1000.0,16.808358362292225,1,56,compra,São Paulo,Não Aposentado,4,1
+168,1000.0,14.592941849903047,0,66,compra,Rio de Janeiro,Aposentado,2,0
+169,1000.0,0.4600741651792193,0,33,compra,Rio Branco,Não Aposentado,1,0
+170,1000.0,12.9711595304704,0,59,transferencia,Rio de Janeiro,Não Aposentado,2,0
+171,1000.0,13.23906627391369,1,24,compra,Curitiba,Estudante,1,1
+172,1000.0,7.530924655062424,0,66,compra,Teresina,Aposentado,1,0
+173,1000.0,5.716820283294411,1,49,saque,Belém,Não Aposentado,4,1
+174,1000.0,7.411856867475129,0,60,compra,Belo Horizonte,Aposentado,4,1
+175,1000.0,0.4271260519800455,1,46,compra,Recife,Não Aposentado,4,1
+176,1000.0,18.334339097498983,0,40,transferencia,João Pessoa,Não Aposentado,1,0
+177,1000.0,14.626966001639998,1,70,saque,São Luís,Aposentado,4,1
+178,1000.0,3.9607145642185966,1,24,compra,João Pessoa,Estudante,3,1
+179,1000.0,4.490453081802714,0,38,compra,Belo Horizonte,Não Aposentado,3,1
+180,1000.0,13.682839606832554,1,20,compra,Rio Branco,Estudante,5,1
+181,1000.0,22.733447854863094,0,65,saque,Natal,Aposentado,2,0
+182,1000.0,4.1320473620611295,1,71,saque,Cuiabá,Aposentado,1,0
+183,1000.0,9.454375536898642,0,42,saque,Maceió,Não Aposentado,2,0
+184,1000.0,6.06438866364031,0,48,compra,Belém,Não Aposentado,5,1
+185,1000.0,23.04330634590356,1,53,compra,Vitória,Não Aposentado,3,1
+186,1000.0,11.246160986124021,1,69,compra,Campo Grande,Aposentado,2,0
+187,1000.0,1.90332148439823,0,42,compra,Boa Vista,Não Aposentado,5,1
+188,1000.0,13.63558817622068,0,19,compra,Cuiabá,Estudante,5,1
+189,1000.0,23.865187082444116,1,50,compra,Maceió,Não Aposentado,4,1
+190,1000.0,22.828174696566215,0,35,compra,Salvador,Não Aposentado,2,0
+191,1000.0,11.798032443459892,0,30,compra,Fortaleza,Não Aposentado,4,1
+192,1000.0,13.410440745649574,0,44,saque,Rio de Janeiro,Não Aposentado,3,1
+193,1000.0,8.990770813727757,0,28,compra,Belo Horizonte,Estudante,2,0
+194,1000.0,3.2624411874387427,1,56,transferencia,Boa Vista,Não Aposentado,2,0
+195,1000.0,2.1047471901846846,0,56,compra,Curitiba,Não Aposentado,4,1
+196,1000.0,23.833604618783546,1,39,compra,Rio Branco,Não Aposentado,1,0
+197,1000.0,1.954433076429777,1,73,transferencia,Belo Horizonte,Aposentado,1,0
+198,1000.0,11.960508895921787,0,41,compra,Florianópolis,Não Aposentado,5,1
+199,1000.0,8.984313709831223,1,48,compra,Brasília,Não Aposentado,2,0
+200,1000.0,18.339232477834074,0,38,saque,Teresina,Não Aposentado,1,0
+201,1000.0,1.4248821598090098,1,34,compra,Curitiba,Não Aposentado,4,1
+202,1000.0,7.996665763026049,0,58,transferencia,Aracaju,Não Aposentado,5,1
+203,1000.0,21.23798210072315,0,20,transferencia,Vitória,Estudante,5,1
+204,1000.0,8.92190367732037,1,50,compra,Vitória,Não Aposentado,5,1
+205,1000.0,9.729676064644119,1,47,saque,São Luís,Não Aposentado,3,1
+206,1000.0,1.4543624618664968,0,38,compra,Teresina,Não Aposentado,2,0
+207,1000.0,11.423310617715838,1,78,compra,Porto Velho,Aposentado,3,1
+208,1000.0,9.9598389021022,1,35,compra,Porto Alegre,Não Aposentado,3,1
+209,1000.0,2.31771991334851,0,36,compra,Recife,Não Aposentado,2,0
+210,1000.0,12.762125333379833,0,79,saque,Belo Horizonte,Aposentado,2,0
+211,1000.0,8.211861718807851,1,46,saque,Curitiba,Não Aposentado,3,1
+212,1000.0,3.757758549036531,0,73,compra,Teresina,Aposentado,1,0
+213,1000.0,21.668405270493242,1,72,compra,Manaus,Aposentado,2,0
+214,1000.0,9.758500690921421,0,51,saque,Cuiabá,Não Aposentado,5,1
+215,1000.0,5.225947475783195,0,67,compra,Salvador,Aposentado,4,1
+216,1000.0,13.274369094920036,0,56,compra,Goiânia,Não Aposentado,2,0
+217,1000.0,3.572799590767734,0,39,compra,Florianópolis,Não Aposentado,1,0
+218,1000.0,6.099247404850871,0,64,compra,Boa Vista,Aposentado,4,1
+219,1000.0,9.5622320342936,0,30,compra,Macapá,Não Aposentado,1,0
+220,1000.0,12.770971777436422,0,46,saque,Porto Velho,Não Aposentado,1,0
+221,1000.0,1.4844467826616237,0,28,compra,Rio Branco,Estudante,3,1
+222,1000.0,16.443547901961317,0,45,compra,Maceió,Não Aposentado,1,0
+223,1000.0,21.901737836271955,0,19,saque,Porto Alegre,Estudante,4,1
+224,1000.0,9.678756561996547,1,70,compra,Recife,Aposentado,1,0
+225,1000.0,5.329944002554183,0,59,saque,Cuiabá,Não Aposentado,5,1
+226,1000.0,20.760035322247703,0,51,compra,Cuiabá,Não Aposentado,1,0
+227,1000.0,8.65278598504511,0,53,compra,Boa Vista,Não Aposentado,4,1
+228,1000.0,9.693265218861413,1,56,compra,Vitória,Não Aposentado,4,1
+229,1000.0,6.367241189979032,0,59,compra,Natal,Não Aposentado,4,1
+230,1000.0,6.70833424374996,1,31,compra,João Pessoa,Não Aposentado,2,1
+231,1000.0,19.083227466477013,1,37,compra,Palmas,Não Aposentado,3,1
+232,1000.0,20.1828983220868,0,79,saque,Cuiabá,Aposentado,3,1
+233,1000.0,6.271728979907626,1,36,transferencia,Rio de Janeiro,Não Aposentado,2,0
+234,1000.0,9.749036832264611,1,50,compra,São Luís,Não Aposentado,5,1
+235,1000.0,2.684943091213529,1,56,saque,Belo Horizonte,Não Aposentado,3,1
+236,1000.0,17.829368445319545,1,23,saque,Florianópolis,Estudante,3,1
+237,1000.0,0.2647145018205119,0,20,compra,Palmas,Estudante,5,1
+238,1000.0,19.91813912124627,0,26,compra,Belém,Estudante,1,0
+239,1000.0,17.266960545675566,1,51,compra,Florianópolis,Não Aposentado,1,0
+240,1000.0,16.24874630489406,0,21,compra,Porto Alegre,Estudante,1,0
+241,1000.0,3.2264928219133147,0,20,saque,Manaus,Estudante,1,0
+242,1000.0,13.954574654203949,1,74,transferencia,São Paulo,Aposentado,1,0
+243,1000.0,7.490944301019148,0,20,compra,Porto Velho,Estudante,3,1
+244,1000.0,23.077689786475965,0,49,compra,Manaus,Não Aposentado,5,1
+245,1000.0,3.759159970556559,1,42,saque,Florianópolis,Não Aposentado,3,1
+246,1000.0,0.4995560880155576,1,55,compra,Rio Branco,Não Aposentado,2,0
+247,1000.0,11.497411131470296,0,63,compra,Fortaleza,Aposentado,1,0
+248,1000.0,11.079729194561303,1,36,compra,Curitiba,Não Aposentado,2,1
+249,1000.0,8.838937697037542,0,55,transferencia,Rio Branco,Não Aposentado,4,1
+250,1000.0,12.091643606869095,0,73,saque,Goiânia,Aposentado,3,1
+251,1000.0,14.903618309985426,0,51,compra,Porto Velho,Não Aposentado,3,1
+252,1000.0,8.189407926663606,0,68,compra,Manaus,Aposentado,4,1
+253,1000.0,23.781967939314463,0,51,compra,Cuiabá,Não Aposentado,2,0
+254,1000.0,23.407287633357146,1,25,compra,Rio de Janeiro,Estudante,2,1
+255,1000.0,19.333958743805066,0,54,compra,Maceió,Não Aposentado,3,1
+256,1000.0,0.2521615702193811,0,33,compra,Aracaju,Não Aposentado,5,1
+257,1000.0,13.331944957408584,0,32,saque,Rio Branco,Não Aposentado,4,1
+258,1000.0,11.168122628739688,1,36,compra,Porto Velho,Não Aposentado,5,1
+259,1000.0,20.054770367831885,0,44,compra,Teresina,Não Aposentado,1,0
+260,1000.0,5.430744919848055,0,77,compra,Fortaleza,Aposentado,3,1
+261,1000.0,4.466513834106105,0,19,compra,Brasília,Estudante,1,1
+262,1000.0,6.050560471918641,1,29,saque,Porto Velho,Estudante,5,1
+263,1000.0,19.416510253658885,0,35,compra,Porto Velho,Não Aposentado,2,0
+264,1000.0,20.428546539166963,0,57,saque,Vitória,Não Aposentado,3,1
+265,1000.0,15.007652746568773,0,68,compra,Goiânia,Aposentado,4,1
+266,1000.0,16.619883326281872,1,50,compra,Aracaju,Não Aposentado,2,0
+267,1000.0,19.983234963285568,0,31,compra,Vitória,Não Aposentado,5,1
+268,1000.0,21.098137164149882,0,45,compra,João Pessoa,Não Aposentado,5,1
+269,1000.0,4.185525412229717,0,23,compra,Goiânia,Estudante,1,0
+270,1000.0,13.171041442110933,0,48,compra,Aracaju,Não Aposentado,4,1
+271,1000.0,16.411729065973212,0,27,compra,Macapá,Estudante,4,1
+272,1000.0,11.78633107453533,0,22,compra,Brasília,Estudante,1,0
+273,1000.0,3.2866943583226664,1,69,compra,Brasília,Aposentado,3,1
+274,1000.0,13.458663520958826,0,28,compra,Brasília,Estudante,4,1
+275,1000.0,9.630035468335613,1,50,compra,Maceió,Não Aposentado,4,1
+276,1000.0,19.10517178959968,1,67,saque,Aracaju,Aposentado,4,1
+277,1000.0,20.40212608256395,0,20,compra,Palmas,Estudante,5,1
+278,1000.0,14.507672235584254,1,63,compra,Aracaju,Aposentado,4,1
+279,1000.0,16.7673892622386,1,50,saque,Porto Alegre,Não Aposentado,2,0
+280,1000.0,8.927782501598909,0,59,compra,Belo Horizonte,Não Aposentado,4,1
+281,1000.0,4.627223605565046,0,77,compra,João Pessoa,Aposentado,1,0
+282,1000.0,23.935255139120375,0,74,compra,São Luís,Aposentado,2,0
+283,1000.0,9.738357227477723,0,61,saque,Porto Velho,Aposentado,4,1
+284,1000.0,8.542539304727052,0,18,compra,Maceió,Estudante,4,1
+285,1000.0,8.88126800476251,1,62,compra,Florianópolis,Aposentado,4,1
+286,1000.0,20.820200981156585,1,38,compra,Rio Branco,Não Aposentado,2,0
+287,1000.0,20.43555263522304,0,35,compra,Rio de Janeiro,Não Aposentado,1,1
+288,1000.0,5.713276225818292,1,70,transferencia,Salvador,Aposentado,1,0
+289,1000.0,8.742991748616305,0,70,compra,Cuiabá,Aposentado,2,0
+290,1000.0,11.538094396418067,0,55,compra,São Luís,Não Aposentado,5,1
+291,1000.0,21.11182117623605,0,35,compra,Vitória,Não Aposentado,2,0
+292,1000.0,3.9656130651161092,1,56,compra,Vitória,Não Aposentado,3,1
+293,1000.0,21.722997391176932,0,18,compra,Belém,Estudante,2,0
+294,1000.0,11.118827305210912,0,28,compra,Campo Grande,Estudante,4,1
+295,1000.0,10.27921349756833,0,44,compra,Macapá,Não Aposentado,1,1
+296,1000.0,11.152570944874043,1,45,compra,Goiânia,Não Aposentado,1,1
+297,1000.0,18.705590111945938,0,46,compra,Curitiba,Não Aposentado,3,1
+298,1000.0,1.3137642820252413,1,39,compra,Belém,Não Aposentado,2,0
+299,1000.0,3.035920755096879,0,56,compra,Macapá,Não Aposentado,3,1
+300,1000.0,9.361097872842608,1,55,compra,Salvador,Não Aposentado,5,1
+301,1000.0,3.5407959185896587,0,53,saque,Curitiba,Não Aposentado,1,0
+302,1000.0,23.338707865967343,0,52,saque,Cuiabá,Não Aposentado,2,0
+303,1000.0,16.09583804553533,0,40,compra,São Paulo,Não Aposentado,1,0
+304,1000.0,17.67696185863204,0,19,compra,Campo Grande,Estudante,5,1
+305,1000.0,21.02624231033544,0,22,compra,Recife,Estudante,3,1
+306,1000.0,9.514529347273688,0,59,saque,Salvador,Não Aposentado,4,1
+307,1000.0,13.312215302429655,0,46,compra,Belo Horizonte,Não Aposentado,1,0
+308,1000.0,15.679464589941924,1,30,compra,Natal,Não Aposentado,2,0
+309,1000.0,6.840460260734971,1,59,compra,Curitiba,Não Aposentado,1,0
+310,1000.0,10.198620716487167,1,72,transferencia,Rio de Janeiro,Aposentado,1,0
+311,1000.0,9.414677465483162,1,42,compra,Vitória,Não Aposentado,5,1
+312,1000.0,16.032137341662057,0,20,compra,Manaus,Estudante,3,1
+313,1000.0,10.116171449795914,0,20,compra,João Pessoa,Estudante,4,1
+314,1000.0,2.3177547022337412,1,79,saque,Palmas,Aposentado,2,0
+315,1000.0,17.83192976431564,1,71,compra,Campo Grande,Aposentado,4,1
+316,1000.0,4.527543364025119,1,76,compra,Salvador,Aposentado,2,0
+317,1000.0,16.621624112620662,0,48,compra,Belém,Não Aposentado,1,0
+318,1000.0,1.6609390849905976,1,56,compra,Recife,Não Aposentado,5,1
+319,1000.0,19.2345430997464,0,75,saque,Porto Velho,Aposentado,3,1
+320,1000.0,0.27044905654934226,1,60,compra,Rio de Janeiro,Aposentado,3,1
+321,1000.0,9.490764337744398,1,37,transferencia,Goiânia,Não Aposentado,3,1
+322,1000.0,5.8671347635093785,0,27,saque,Campo Grande,Estudante,2,0
+323,1000.0,3.239950706662298,1,49,compra,Rio Branco,Não Aposentado,4,1
+324,1000.0,21.840311409894408,0,75,compra,Manaus,Aposentado,2,0
+325,1000.0,3.446369551153688,1,68,transferencia,Cuiabá,Aposentado,2,0
+326,1000.0,16.00113033837786,0,75,compra,João Pessoa,Aposentado,2,0
+327,1000.0,8.564874743567533,1,66,compra,Goiânia,Aposentado,1,0
+328,1000.0,12.24210708781878,1,24,transferencia,Macapá,Estudante,3,1
+329,1000.0,18.08027622930055,0,74,compra,Teresina,Aposentado,2,0
+330,1000.0,4.196789011529026,0,33,saque,Belém,Não Aposentado,5,1
+331,1000.0,21.80628155730358,0,38,compra,Maceió,Não Aposentado,5,1
+332,1000.0,5.2884120256321765,0,41,compra,Teresina,Não Aposentado,5,1
+333,1000.0,16.207560645283223,1,75,compra,João Pessoa,Aposentado,4,1
+334,1000.0,18.488856703575305,0,23,compra,Belém,Estudante,5,1
+335,1000.0,3.9613563947297434,0,43,compra,Florianópolis,Não Aposentado,5,1
+336,1000.0,21.658003164702045,0,26,compra,Campo Grande,Estudante,1,0
+337,1000.0,6.641427244987069,1,51,transferencia,Palmas,Não Aposentado,4,1
+338,1000.0,21.45539864025109,0,19,saque,São Luís,Estudante,2,0
+339,1000.0,21.769242545129025,1,32,compra,Recife,Não Aposentado,4,1
+340,1844.6073501432988,18.132971640807046,1,32,saque,São Paulo,Não Aposentado,5,1
+341,1000.0,10.503371032664322,0,38,saque,Cuiabá,Não Aposentado,4,1
+342,1000.0,6.2856328016169805,0,20,saque,Belém,Estudante,5,1
+343,1000.0,3.4239579099022928,0,47,compra,Recife,Não Aposentado,2,0
+344,1000.0,19.434785677803198,1,57,compra,Teresina,Não Aposentado,1,0
+345,1000.0,10.410385842005205,0,30,transferencia,Recife,Não Aposentado,1,0
+346,1000.0,2.835897452425,0,54,compra,Salvador,Não Aposentado,3,1
+347,1000.0,16.145580490433407,0,70,transferencia,Manaus,Aposentado,1,0
+348,1000.0,3.6139804702580474,1,78,compra,Recife,Aposentado,1,0
+349,1000.0,10.863660870606187,0,30,compra,Belém,Não Aposentado,4,1
+350,1000.0,21.621443305067444,1,44,compra,Curitiba,Não Aposentado,4,1
+351,1000.0,8.829824710146557,0,42,compra,Goiânia,Não Aposentado,4,1
+352,1000.0,11.604580534376606,1,58,compra,Maceió,Não Aposentado,3,1
+353,1000.0,22.725998244861525,0,25,saque,Macapá,Estudante,4,1
+354,1000.0,8.770774753491576,0,70,compra,Porto Velho,Aposentado,1,0
+355,1000.0,1.2356526210854035,0,77,compra,Porto Alegre,Aposentado,3,1
+356,1000.0,9.269449308507928,0,70,transferencia,Vitória,Aposentado,1,0
+357,1000.0,12.930439555391597,0,25,compra,Maceió,Estudante,5,1
+358,1000.0,14.40296680462819,0,48,saque,Brasília,Não Aposentado,5,1
+359,1000.0,3.780616153519448,1,22,transferencia,Rio Branco,Estudante,1,0
+360,1000.0,9.080182685124875,0,59,compra,Recife,Não Aposentado,5,1
+361,1000.0,3.586148503093291,1,39,saque,Boa Vista,Não Aposentado,3,1
+362,1000.0,23.634395887019735,0,48,compra,São Luís,Não Aposentado,5,1
+363,1000.0,16.846368167309915,1,61,transferencia,João Pessoa,Aposentado,1,0
+364,1000.0,0.9402342588466386,0,18,compra,Belém,Estudante,5,1
+365,1000.0,18.680071470464146,1,43,compra,Brasília,Não Aposentado,1,0
+366,1000.0,2.3208763988306007,0,77,transferencia,Palmas,Aposentado,4,1
+367,1000.0,22.142532576888858,1,34,transferencia,Florianópolis,Não Aposentado,5,1
+368,1000.0,19.039809537982016,0,69,compra,Rio Branco,Aposentado,2,0
+369,1000.0,17.805657951996814,0,20,compra,Fortaleza,Estudante,5,1
+370,1000.0,9.40370360171211,0,53,compra,Vitória,Não Aposentado,5,1
+371,1000.0,20.929192834181407,0,49,saque,Florianópolis,Não Aposentado,1,0
+372,1000.0,23.478676578941794,1,62,saque,Brasília,Aposentado,2,0
+373,1000.0,22.260446140882138,1,24,transferencia,João Pessoa,Estudante,3,1
+374,1000.0,3.0599110582827356,0,75,transferencia,Boa Vista,Aposentado,3,1
+375,1000.0,10.027867904789026,1,64,compra,Palmas,Aposentado,2,0
+376,1000.0,3.689016747620469,1,79,saque,São Paulo,Aposentado,2,0
+377,1000.0,11.137792941989012,1,32,compra,Salvador,Não Aposentado,5,1
+378,1000.0,22.924204913794696,0,75,transferencia,Belo Horizonte,Aposentado,4,1
+379,1000.0,1.221774183338903,1,58,compra,São Paulo,Não Aposentado,3,1
+380,1000.0,10.275960605911749,0,52,compra,Teresina,Não Aposentado,4,1
+381,1000.0,17.01835616313297,1,73,compra,Florianópolis,Aposentado,2,0
+382,1000.0,10.534843428727434,0,22,compra,Brasília,Estudante,1,0
+383,1000.0,0.43906630865975593,0,21,compra,São Paulo,Estudante,4,1
+384,1000.0,6.389141890789407,0,69,saque,Salvador,Aposentado,4,1
+385,1000.0,9.956289375103623,1,42,transferencia,Macapá,Não Aposentado,3,1
+386,1000.0,17.570620151087887,1,39,compra,Porto Alegre,Não Aposentado,4,1
+387,1000.0,7.614652556702485,0,78,compra,Curitiba,Aposentado,4,1
+388,1000.0,5.699866863779332,1,46,compra,Manaus,Não Aposentado,3,1
+389,1000.0,8.539511955850807,1,32,compra,Porto Alegre,Não Aposentado,2,0
+390,1000.0,13.86345010996819,1,62,saque,Curitiba,Aposentado,4,1
+391,1000.0,4.944924977721528,0,35,transferencia,Maceió,Não Aposentado,4,1
+392,1000.0,12.893782815045736,0,36,compra,Manaus,Não Aposentado,2,0
+393,1000.0,13.801132805303746,0,69,compra,São Luís,Aposentado,4,1
+394,1000.0,3.574291613042882,0,20,compra,Vitória,Estudante,2,0
+395,1000.0,20.196866295106737,1,74,compra,Curitiba,Aposentado,1,0
+396,1000.0,2.1308500850245116,1,62,transferencia,Natal,Aposentado,4,1
+397,1000.0,6.228684033432306,0,28,saque,Palmas,Estudante,4,1
+398,1000.0,22.7490439413545,0,74,compra,Vitória,Aposentado,1,0
+399,1000.0,10.915908923434248,0,29,compra,Rio de Janeiro,Estudante,5,1
+400,1000.0,14.652022084245743,0,20,compra,Maceió,Estudante,5,1
+401,1000.0,0.13112803262766803,0,62,compra,Brasília,Aposentado,4,1

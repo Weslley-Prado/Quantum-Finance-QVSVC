@@ -1,6 +1,6 @@
 id_transacao,valor,tempo,fim_de_semana,idade_cliente,tipo_transacao,cidade,perfil,numero_transacoes,fraude
-1,1000.0,4.220996533629695,0,47,compra,Teresina,Não Aposentado,1,0
-2,1000.0,16.50731083766637,1,25,compra,Macapá,Estudante,3,1
-3,1000.0,11.388027508254538,0,38,compra,Cuiabá,Não Aposentado,4,1
-4,1000.0,3.131157277281462,1,67,transferencia,Macapá,Aposentado,3,1
-5,1000.0,13.813373197485411,0,67,transferencia,Porto Alegre,Aposentado,1,0
+1,1000.0,12.296986261581992,0,37,compra,Natal,Não Aposentado,3,1
+2,1000.0,4.574337835029394,1,58,compra,Manaus,Não Aposentado,2,0
+3,1000.0,2.66718317038389,0,54,compra,Brasília,Não Aposentado,5,1
+4,1000.0,0.8008086981609299,0,58,compra,Fortaleza,Não Aposentado,5,1
+5,1000.0,11.861711551341438,0,44,transferencia,Goiânia,Não Aposentado,5,1

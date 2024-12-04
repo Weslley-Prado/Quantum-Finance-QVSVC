@@ -13,7 +13,7 @@ import seaborn as sns
 
 # Passo 1: Carregar os dados
 # Carregamos os dados de um arquivo CSV
-data = pd.read_csv("../creditcard_dataset_com_cidades_e_regras.csv")
+data = pd.read_csv("../creditcard_dataset_com_cidades_e_regras_classical.csv")
 
 # Convertendo os dados para um DataFrame do pandas
 df = pd.DataFrame(data)
