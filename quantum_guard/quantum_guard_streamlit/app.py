@@ -3,8 +3,8 @@ import joblib
 import streamlit as st
 
 # Caminhos dos modelos
-caminho_modelo_classico = '../../create_models/documentacao_modelo/modelo_anti_fraude.pkl'
-caminho_modelo_quantico = '../../create_models/documentacao_modelo_quantico/modelo_anti_fraude_quantum.pkl'
+caminho_modelo_classico = './infra/model_of_classical_machine_learning/modelo_anti_fraude.pkl'
+caminho_modelo_quantico = './infra/model_of_quantum_machine_learning/modelo_anti_fraude_quantum.pkl'
 
 # Carregar os modelos salvos
 modelo_classico = joblib.load(caminho_modelo_classico)
