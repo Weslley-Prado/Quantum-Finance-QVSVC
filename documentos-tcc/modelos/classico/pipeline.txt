@@ -1,0 +1,18 @@
+@startuml
+title Pipeline de Classificação Clássica
+
+start
+:Dados de Entrada (X, y);
+:Pré-processador de Colunas;
+
+if (Tipo de Coluna?) then (Numéricas)
+  :MinMaxScaler;
+else (Categóricas)
+  :OneHotEncoder;
+endif
+
+:Classificador (SVC com Kernel Linear);
+
+:Predição (y_pred);
+stop
+@enduml

@@ -100,7 +100,7 @@ if st.button("Classificar Transação"):
         
         # Exibir a acurácia do modelo
         if modelo_selecionado == "Clássico":
-            st.info("Acurácia do modelo clássico: 95%")  # Atualize com a acurácia real
+            st.info("Acurácia do modelo clássico: 97%")  # Atualize com a acurácia real
         else:
             st.info("Acurácia do modelo quântico: 93%")  # Atualize com a acurácia real
 
