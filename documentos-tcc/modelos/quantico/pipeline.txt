@@ -1,0 +1,25 @@
+@startuml
+title Pipeline de Classificação Quântica
+
+start
+:Dados de Entrada (X, y);
+:Preprocessador de Colunas;
+
+if (Tipo de Coluna?) then (Numéricas)
+  :MinMaxScaler;
+else (Categóricas)
+  :OneHotEncoder;
+endif
+
+:Redução de Dimensionalidade (PCA - 8 Componentes);
+
+:Mapeamento Quântico (ZZFeatureMap);
+
+:Kernel Quântico (FidelityQuantumKernel);
+
+:Classificador (QSVC);
+
+:Predição (y_pred);
+stop
+
+@enduml
