@@ -1,0 +1,89 @@
+Colunas numéricas:
+valor
+tempo
+idade_cliente
+numero_transacoes
+
+Colunas categóricas:
+tipo_transacao
+cidade
+perfil
+fim_de_semana
+
+Colunas One-Hot:
+tipo_transacao_compra
+tipo_transacao_saque
+tipo_transacao_transferencia
+cidade_Aracaju
+cidade_Belo Horizonte
+cidade_Belém
+cidade_Boa Vista
+cidade_Brasília
+cidade_Campo Grande
+cidade_Cuiabá
+cidade_Curitiba
+cidade_Florianópolis
+cidade_Fortaleza
+cidade_Goiânia
+cidade_João Pessoa
+cidade_Macapá
+cidade_Maceió
+cidade_Manaus
+cidade_Natal
+cidade_Palmas
+cidade_Porto Alegre
+cidade_Porto Velho
+cidade_Recife
+cidade_Rio Branco
+cidade_Rio de Janeiro
+cidade_Salvador
+cidade_São Luís
+cidade_São Paulo
+cidade_Teresina
+cidade_Vitória
+perfil_Aposentado
+perfil_Estudante
+perfil_Não Aposentado
+fim_de_semana_0
+fim_de_semana_1
+
+Todas as colunas utilizadas:
+valor
+tempo
+idade_cliente
+numero_transacoes
+tipo_transacao_compra
+tipo_transacao_saque
+tipo_transacao_transferencia
+cidade_Aracaju
+cidade_Belo Horizonte
+cidade_Belém
+cidade_Boa Vista
+cidade_Brasília
+cidade_Campo Grande
+cidade_Cuiabá
+cidade_Curitiba
+cidade_Florianópolis
+cidade_Fortaleza
+cidade_Goiânia
+cidade_João Pessoa
+cidade_Macapá
+cidade_Maceió
+cidade_Manaus
+cidade_Natal
+cidade_Palmas
+cidade_Porto Alegre
+cidade_Porto Velho
+cidade_Recife
+cidade_Rio Branco
+cidade_Rio de Janeiro
+cidade_Salvador
+cidade_São Luís
+cidade_São Paulo
+cidade_Teresina
+cidade_Vitória
+perfil_Aposentado
+perfil_Estudante
+perfil_Não Aposentado
+fim_de_semana_0
+fim_de_semana_1

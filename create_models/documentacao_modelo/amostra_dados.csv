@@ -1,0 +1,6 @@
+id_transacao,valor,tempo,fim_de_semana,idade_cliente,tipo_transacao,cidade,perfil,numero_transacoes,fraude
+1,1000.0,18.05079419545487,0,49,transferencia,Rio Branco,Não Aposentado,4,1
+2,1000.0,13.526394139314434,0,20,transferencia,Teresina,Estudante,1,0
+3,1000.0,20.720503266753944,0,26,transferencia,João Pessoa,Estudante,4,1
+4,1000.0,20.316370853587856,1,36,compra,Teresina,Não Aposentado,3,1
+5,1000.0,10.13402806487716,0,78,compra,João Pessoa,Aposentado,4,1
