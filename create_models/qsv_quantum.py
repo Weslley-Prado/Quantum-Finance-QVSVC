@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Passo 1: Carregar os dados
-data = pd.read_csv("../creditcard_dataset_com_cidades_e_regras.csv")
+data = pd.read_csv("../datasets/classical/creditcard_dataset_com_cidades_e_regras.csv")
 df = pd.DataFrame(data)
 
 # Exibindo a distribuição de fraudes no dataset
