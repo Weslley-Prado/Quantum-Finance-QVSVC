@@ -1,10 +1,18 @@
 import pandas as pd
 import joblib
 import streamlit as st
+import os
+# # Caminhos dos modelos
+# caminho_modelo_classico = './infra/model_of_classical_machine_learning/modelo_anti_fraude.pkl'
+# caminho_modelo_quantico = './infra/model_of_quantum_machine_learning/modelo_anti_fraude_quantum.pkl'
 
-# Caminhos dos modelos
-caminho_modelo_classico = './infra/model_of_classical_machine_learning/modelo_anti_fraude.pkl'
-caminho_modelo_quantico = './infra/model_of_quantum_machine_learning/modelo_anti_fraude_quantum.pkl'
+
+# Determina o caminho do arquivo com base no diretório do script atual
+base_dir = os.path.dirname(os.path.abspath(__file__))
+# Caminhos dos modelos .pkl
+caminho_modelo_classico = os.path.join(base_dir, 'infra', 'model_of_classical_machine_learning', 'modelo_anti_fraude.pkl')
+caminho_modelo_quantico = os.path.join(base_dir, 'infra', 'model_of_quantum_machine_learning', 'modelo_anti_fraude_quantum.pkl')
+
 
 # Carregar os modelos salvos
 modelo_classico = joblib.load(caminho_modelo_classico)
