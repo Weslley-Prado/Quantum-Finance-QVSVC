@@ -1,10 +1,14 @@
-[Documentação em Português](#quantum-finance-qvsvc--português)
-[Documentation in English](#quantum-finance-qvsvc--english)
+[Documentação em Português](#quantum-finance-qvsvc--português)  
+
+[Documentation in English](#quantum-finance-qvsvc--english)  
+
 
 ---
 
-[Projeto Backend Para Clonar](https://github.com/Weslley-Prado/Quantum-Guard-Backend)
-[Projeto Streamlit Para Clonar](https://github.com/Weslley-Prado/quantum-guard-streamlit)
+[Projeto Backend Para Clonar](https://github.com/Weslley-Prado/Quantum-Guard-Backend)  
+
+[Projeto Streamlit Para Clonar](https://github.com/Weslley-Prado/quantum-guard-streamlit)  
+
 [Projeto Frontend Para Clonar](https://github.com/Weslley-Prado/quantum-frontend)
 
 
@@ -22,8 +26,10 @@ Este projeto é uma demonstração prática da aplicação da computação quân
 
 ---
 
-[Backend Project to Clone](https://github.com/Weslley-Prado/Quantum-Guard-Backend)
-[Streamlit To Clone Project](https://github.com/Weslley-Prado/quantum-guard-streamlit)
+[Backend Project to Clone](https://github.com/Weslley-Prado/Quantum-Guard-Backend)  
+
+[Streamlit To Clone Project](https://github.com/Weslley-Prado/quantum-guard-streamlit)  
+
 [Frontend Project to Clone](https://github.com/Weslley-Prado/quantum-frontend)
 
 
